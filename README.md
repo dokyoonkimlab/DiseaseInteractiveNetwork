@@ -22,6 +22,13 @@ This implementation is conducted by the following packages (to be installed inde
 ```
 ./data_bioinfo/predicted_results_for_427_diseases.zip 
 ```
+
+3. Generated Relative risk & Phi-correlations for 427 diseases
+```
+./data_bioinfo/EHR_comorbidity_UKBB/ **.pkl 
+```
+
+
 Similar implementation of graph-based SSL can be found at scikit-learn (sklearn.semi_supervised.LabelPropagation) <br>
 This file explains step by step how to use graph-based SSL.
 ```
