@@ -18,9 +18,9 @@ This implementation is conducted by the following packages (to be installed inde
 ./data_bioinfo/snp_list_rsid.csv # list of used SNPs in this analysis
 ```
 
-2. Generated results with proposed method
+2. Generated results with proposed method: Predicted scores from graph-based SSL, Relative risk & Phi-correlations obtained from EHR data
 ```
-./data_bioinfo/predicted_results_for_427_diseases.zip # Predicted scores from graph-based SSL, Relative risk & Phi-correlations obtained from EHR data
+./data_bioinfo/predicted_results_for_427_diseases.zip 
 ```
 Similar implementation of graph-based SSL can be found at scikit-learn (sklearn.semi_supervised.LabelPropagation) <br>
 This file explains step by step how to use graph-based SSL.
