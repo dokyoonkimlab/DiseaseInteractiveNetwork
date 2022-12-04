@@ -10,6 +10,13 @@ This implementation is conducted by the following packages (to be installed inde
   * scipy
 
 ### Data Description
+1. Used/Converted datasets of constructing DDN
+``` 
+disease_snp.npz
+full_phecode_list.csv
+snp_list_rsid.csv
+```
+
 
 Similar implementation of graph-based SSL can be found at scikit-learn (sklearn.semi_supervised.LabelPropagation) <br>
 This file explains step by step how to use graph-based SSL.
