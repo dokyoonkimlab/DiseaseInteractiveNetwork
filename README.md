@@ -35,3 +35,5 @@ This implementation is conducted by the following packages (to be installed inde
 ```
 main.py 
 ```
+
+4. The inter-disease interactive network was implmeneted in https://hdpm.biomedinfolab.com/ddn/signedDDN
