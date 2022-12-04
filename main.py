@@ -59,7 +59,9 @@ disease_list  = disease_list.to_numpy()
 
 
 ########
-#idx_ = 42 # Type 2 diabetes (PheCode = 250.2)
+idx_ = 42 # Type 2 diabetes (PheCode = 250.2)
+########
+
 f = np.zeros(len(W))
 y = np.zeros(len(W))
 y[idx_] = 1
