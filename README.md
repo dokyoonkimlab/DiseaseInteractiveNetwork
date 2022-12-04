@@ -27,6 +27,13 @@ This implementation is conducted by the following packages (to be installed inde
 ```
 ./data_bioinfo/EHR_comorbidity_UKBB/ **.pkl 
 ```
+
+4. Supplemenatry Data
+  * Supplementary Text
+  * Supplementary Data S1: Description for disease nodes and their associations
+  * Supplementary Data S2: List of synergistic and antagonistic association
+
+
 ### Implemenations of comorbidity scoring
 * The following codes expalains simple examples for predicting direct/inverse comorbidity
 * Hyperparameters
