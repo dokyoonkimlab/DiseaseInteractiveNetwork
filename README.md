@@ -30,7 +30,7 @@ This implementation is conducted by the following packages (to be installed inde
 ### Implemenations of comorbidity scoring
 * The following codes expalains simple examples for predicting direct/inverse comorbidity
 * Hyperparameters
-  ** idx_ : index disease of interest (index according to full_phecode_list.csv
+  - idx_ : index disease of interest (index according to full_phecode_list.csv
 ```
 main.py 
 ```
