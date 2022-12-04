@@ -31,6 +31,7 @@ This implementation is conducted by the following packages (to be installed inde
 * The following codes expalains simple examples for predicting direct/inverse comorbidity
 * Hyperparameters
   - idx_ : index disease of interest (index according to full_phecode_list.csv
+  - mu_ : graph-based SSL parametere (please refer the methods sections in the manuscript)
 ```
 main.py 
 ```
