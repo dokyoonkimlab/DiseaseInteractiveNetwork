@@ -1,0 +1,428 @@
+,code1,code2,category,description,Pheno_Sex,N_cases
+0,Phe_112,PheCode_112,infectious diseases,Candidiasis,both_sexes,2134
+1,Phe_153,PheCode_153,neoplasms,Colorectal cancer,both_sexes,4562
+2,Phe_153.2,PheCode_153.2,neoplasms,Colon cancer,both_sexes,3051
+3,Phe_153.3,PheCode_153.3,neoplasms,"Malignant neoplasm of rectum, rectosigmoid junction, and anus",both_sexes,2095
+4,Phe_158,PheCode_158,neoplasms,Neoplasm of unspecified nature of digestive system,both_sexes,1056
+5,Phe_159,PheCode_159,neoplasms,Malignant neoplasm of other and ill-defined sites within the digestive organs and peritoneum,both_sexes,5584
+6,Phe_165,PheCode_165,neoplasms,Cancer within the respiratory system,both_sexes,2700
+7,Phe_165.1,PheCode_165.1,neoplasms,Cancer of bronchus; lung,both_sexes,2101
+8,Phe_172,PheCode_172,neoplasms,Skin cancer,both_sexes,13752
+9,Phe_172.2,PheCode_172.2,neoplasms,Other non-epithelial cancer of skin,both_sexes,11149
+10,Phe_174,PheCode_174,neoplasms,Breast cancer,both_sexes,12898
+11,Phe_189,PheCode_189,neoplasms,Cancer of urinary organs (incl. kidney and bladder),both_sexes,4165
+12,Phe_189.11,PheCode_189.11,neoplasms,"Malignant neoplasm of kidney, except pelvis",both_sexes,1002
+13,Phe_189.2,PheCode_189.2,neoplasms,Cancer of bladder,both_sexes,2427
+14,Phe_189.21,PheCode_189.21,neoplasms,Malignant neoplasm of bladder,both_sexes,2146
+15,Phe_195,PheCode_195,neoplasms,"Cancer, suspected or other",both_sexes,16725
+16,Phe_195.1,PheCode_195.1,neoplasms,"Malignant neoplasm, other",both_sexes,15979
+17,Phe_197,PheCode_197,neoplasms,Chemotherapy,both_sexes,21798
+18,Phe_198,PheCode_198,neoplasms,Secondary malignant neoplasm,both_sexes,9483
+19,Phe_198.1,PheCode_198.1,neoplasms,Secondary malignancy of lymph nodes,both_sexes,5379
+20,Phe_198.2,PheCode_198.2,neoplasms,Secondary malignancy of respiratory organs,both_sexes,2211
+21,Phe_198.3,PheCode_198.3,neoplasms,Secondary malignant neoplasm of digestive systems,both_sexes,1519
+22,Phe_198.4,PheCode_198.4,neoplasms,Secondary malignant neoplasm of liver,both_sexes,2638
+23,Phe_198.6,PheCode_198.6,neoplasms,Secondary malignancy of bone,both_sexes,2151
+24,Phe_199,PheCode_199,neoplasms,Neoplasm of uncertain behavior,both_sexes,1412
+25,Phe_202,PheCode_202,neoplasms,"Cancer of other lymphoid, histiocytic tissue",both_sexes,2270
+26,Phe_202.2,PheCode_202.2,neoplasms,Non-Hodgkins lymphoma,both_sexes,1793
+27,Phe_204,PheCode_204,neoplasms,Leukemia,both_sexes,1661
+28,Phe_208,PheCode_208,neoplasms,Benign neoplasm of colon,both_sexes,20204
+29,Phe_211,PheCode_211,neoplasms,Benign neoplasm of other parts of digestive system,both_sexes,5280
+30,Phe_214,PheCode_214,neoplasms,Lipoma,both_sexes,6271
+31,Phe_214.1,PheCode_214.1,neoplasms,Lipoma of skin and subcutaneous tissue,both_sexes,4611
+32,Phe_215,PheCode_215,neoplasms,Other benign neoplasm of connective and other soft tissue,both_sexes,1110
+33,Phe_216,PheCode_216,neoplasms,Benign neoplasm of skin,both_sexes,7722
+34,Phe_228,PheCode_228,neoplasms,"Hemangioma and lymphangioma, any site",both_sexes,1603
+35,Phe_229,PheCode_229,neoplasms,Benign neoplasm of unspecified sites,both_sexes,2402
+36,Phe_241,PheCode_241,endocrine/metabolic,Nontoxic nodular goiter,both_sexes,1143
+37,Phe_242,PheCode_242,endocrine/metabolic,Thyrotoxicosis with or without goiter,both_sexes,1860
+38,Phe_244,PheCode_244,endocrine/metabolic,Hypothyroidism,both_sexes,14871
+39,Phe_244.1,PheCode_244.1,endocrine/metabolic,Secondary hypothyroidism,both_sexes,1117
+40,Phe_244.4,PheCode_244.4,endocrine/metabolic,Hypothyroidism NOS,both_sexes,14171
+41,Phe_250.1,PheCode_250.1,endocrine/metabolic,Type 1 diabetes,both_sexes,2660
+42,Phe_250.2,PheCode_250.2,endocrine/metabolic,Type 2 diabetes,both_sexes,18945
+43,Phe_250.23,PheCode_250.23,endocrine/metabolic,Type 2 diabetes with ophthalmic manifestations,both_sexes,1298
+44,Phe_250.7,PheCode_250.7,endocrine/metabolic,Diabetic retinopathy,both_sexes,1339
+45,Phe_260,PheCode_260,endocrine/metabolic,Protein-calorie malnutrition,both_sexes,1057
+46,Phe_261,PheCode_261,endocrine/metabolic,Vitamin deficiency,both_sexes,1208
+47,Phe_272,PheCode_272,endocrine/metabolic,Disorders of lipoid metabolism,both_sexes,35927
+48,Phe_272.1,PheCode_272.1,endocrine/metabolic,Hyperlipidemia,both_sexes,35844
+49,Phe_272.11,PheCode_272.11,endocrine/metabolic,Hypercholesterolemia,both_sexes,33242
+50,Phe_274,PheCode_274,endocrine/metabolic,Gout and other crystal arthropathies,both_sexes,3763
+51,Phe_274.1,PheCode_274.1,endocrine/metabolic,Gout,both_sexes,3195
+52,Phe_275,PheCode_275,endocrine/metabolic,Disorders of mineral metabolism,both_sexes,2127
+53,Phe_275.5,PheCode_275.5,endocrine/metabolic,Disorders of calcium__phosphorus metabolism,both_sexes,1204
+54,Phe_276,PheCode_276,endocrine/metabolic,"Disorders of fluid, electrolyte, and acid-base balance",both_sexes,7455
+55,Phe_276.1,PheCode_276.1,endocrine/metabolic,Electrolyte imbalance,both_sexes,4123
+56,Phe_276.12,PheCode_276.12,endocrine/metabolic,Hyposmolality and__or hyponatremia,both_sexes,1826
+57,Phe_276.14,PheCode_276.14,endocrine/metabolic,Hypopotassemia,both_sexes,1430
+58,Phe_276.5,PheCode_276.5,endocrine/metabolic,Hypovolemia,both_sexes,2834
+59,Phe_277,PheCode_277,endocrine/metabolic,Other disorders of metabolism,both_sexes,1424
+60,Phe_278,PheCode_278,endocrine/metabolic,"Overweight, obesity and other hyperalimentation",both_sexes,10968
+61,Phe_278.1,PheCode_278.1,endocrine/metabolic,Obesity,both_sexes,10799
+62,Phe_280,PheCode_280,hematopoietic,Iron deficiency anemias,both_sexes,7787
+63,Phe_280.1,PheCode_280.1,hematopoietic,"Iron deficiency anemias, unspecified or not due to blood loss",both_sexes,7414
+64,Phe_281,PheCode_281,hematopoietic,Other deficiency anemia,both_sexes,1133
+65,Phe_281.1,PheCode_281.1,hematopoietic,Megaloblastic anemia,both_sexes,1076
+66,Phe_285,PheCode_285,hematopoietic,Other anemias,both_sexes,12256
+67,Phe_287,PheCode_287,hematopoietic,Purpura and other hemorrhagic conditions,both_sexes,1791
+68,Phe_287.3,PheCode_287.3,hematopoietic,Thrombocytopenia,both_sexes,1563
+69,Phe_288,PheCode_288,hematopoietic,Diseases of white blood cells,both_sexes,3788
+70,Phe_289,PheCode_289,hematopoietic,Other diseases of blood and blood-forming organs,both_sexes,4177
+71,Phe_289.4,PheCode_289.4,hematopoietic,Lymphadenitis,both_sexes,2622
+72,Phe_290,PheCode_290,mental disorders,Delirium dementia and amnestic and other cognitive disorders,both_sexes,1970
+73,Phe_292,PheCode_292,mental disorders,Neurological disorders,both_sexes,4655
+74,Phe_292.1,PheCode_292.1,mental disorders,Aphasia__speech disturbance,both_sexes,1514
+75,Phe_292.4,PheCode_292.4,mental disorders,Altered mental status,both_sexes,2189
+76,Phe_293,PheCode_293,mental disorders,Symptoms involving head and neck,both_sexes,2986
+77,Phe_296,PheCode_296,mental disorders,Mood disorders,both_sexes,12560
+78,Phe_296.1,PheCode_296.1,mental disorders,Bipolar,both_sexes,1064
+79,Phe_296.2,PheCode_296.2,mental disorders,Depression,both_sexes,11901
+80,Phe_300,PheCode_300,mental disorders,Anxiety disorders,both_sexes,6939
+81,Phe_300.1,PheCode_300.1,mental disorders,Anxiety disorder,both_sexes,6375
+82,Phe_306,PheCode_306,mental disorders,Other mental disorder,both_sexes,28791
+83,Phe_317,PheCode_317,mental disorders,Alcohol-related disorders,both_sexes,12922
+84,Phe_317.1,PheCode_317.1,mental disorders,Alcoholism,both_sexes,8968
+85,Phe_318,PheCode_318,mental disorders,Tobacco use disorder,both_sexes,19780
+86,Phe_327,PheCode_327,neurological,Sleep disorders,both_sexes,5238
+87,Phe_327.3,PheCode_327.3,neurological,Sleep apnea,both_sexes,4471
+88,Phe_331,PheCode_331,neurological,Other cerebral degenerations,both_sexes,1112
+89,Phe_332,PheCode_332,neurological,Parkinson's disease,both_sexes,1127
+90,Phe_334,PheCode_334,neurological,Degenerative disease of the spinal cord,both_sexes,1789
+91,Phe_335,PheCode_335,neurological,Multiple sclerosis,both_sexes,1356
+92,Phe_339,PheCode_339,neurological,Other headache syndromes,both_sexes,7891
+93,Phe_340,PheCode_340,neurological,Migraine,both_sexes,2870
+94,Phe_342,PheCode_342,neurological,Hemiplegia,both_sexes,1500
+95,Phe_345,PheCode_345,neurological,"Epilepsy, recurrent seizures, convulsions",both_sexes,5087
+96,Phe_345.3,PheCode_345.3,neurological,Convulsions,both_sexes,2232
+97,Phe_348,PheCode_348,neurological,Other conditions of brain,both_sexes,1426
+98,Phe_350,PheCode_350,neurological,Abnormal movement,both_sexes,2744
+99,Phe_350.2,PheCode_350.2,neurological,Abnormality of gait,both_sexes,1601
+100,Phe_351,PheCode_351,neurological,Other peripheral nerve disorders,both_sexes,12592
+101,Phe_352,PheCode_352,neurological,Disorders of other cranial nerves,both_sexes,1393
+102,Phe_353,PheCode_353,neurological,Nerve root and plexus disorders,both_sexes,1139
+103,Phe_357,PheCode_357,neurological,Inflammatory and toxic neuropathy,both_sexes,1368
+104,Phe_361,PheCode_361,sense organs,Retinal detachments and defects,both_sexes,3263
+105,Phe_361.1,PheCode_361.1,sense organs,Retinal detachment with retinal defect,both_sexes,1392
+106,Phe_362,PheCode_362,sense organs,Other retinal disorders,both_sexes,3867
+107,Phe_362.2,PheCode_362.2,sense organs,Degeneration of macula and posterior pole of retina,both_sexes,2191
+108,Phe_362.29,PheCode_362.29,sense organs,Macular degeneration (senile) of retina NOS,both_sexes,2188
+109,Phe_365,PheCode_365,sense organs,Glaucoma,both_sexes,4462
+110,Phe_365.1,PheCode_365.1,sense organs,Open-angle glaucoma,both_sexes,1043
+111,Phe_365.11,PheCode_365.11,sense organs,Primary open angle glaucoma,both_sexes,1037
+112,Phe_366,PheCode_366,sense organs,Cataract,both_sexes,20352
+113,Phe_366.2,PheCode_366.2,sense organs,Senile cataract,both_sexes,8369
+114,Phe_367,PheCode_367,sense organs,Disorders of refraction and accommodation; blindness and low vision,both_sexes,2431
+115,Phe_367.1,PheCode_367.1,sense organs,Myopia,both_sexes,1257
+116,Phe_368,PheCode_368,sense organs,Visual disturbances,both_sexes,3307
+117,Phe_371,PheCode_371,sense organs,Inflammation of the eye,both_sexes,3174
+118,Phe_371.3,PheCode_371.3,sense organs,Inflammation of eyelids,both_sexes,2396
+119,Phe_374,PheCode_374,sense organs,Other disorders of eyelids,both_sexes,5726
+120,Phe_374.1,PheCode_374.1,sense organs,Ectropion or entropion,both_sexes,1068
+121,Phe_374.3,PheCode_374.3,sense organs,Ptosis of eyelid,both_sexes,1834
+122,Phe_375,PheCode_375,sense organs,Disorders of lacrimal system,both_sexes,2218
+123,Phe_378,PheCode_378,sense organs,Strabismus and other disorders of binocular eye movements,both_sexes,1442
+124,Phe_379,PheCode_379,sense organs,Other disorders of eye,both_sexes,3910
+125,Phe_379.2,PheCode_379.2,sense organs,Disorders of vitreous body,both_sexes,1372
+126,Phe_379.3,PheCode_379.3,sense organs,Aphakia and other disorders of lens,both_sexes,1825
+127,Phe_380,PheCode_380,sense organs,Disorders of external ear,both_sexes,1451
+128,Phe_381,PheCode_381,sense organs,Otitis media and Eustachian tube disorders,both_sexes,2259
+129,Phe_381.1,PheCode_381.1,sense organs,Otitis media,both_sexes,1824
+130,Phe_384,PheCode_384,sense organs,Other disorders of tympanic membrane,both_sexes,1364
+131,Phe_384.4,PheCode_384.4,sense organs,Perforation of tympanic membrane,both_sexes,1044
+132,Phe_386,PheCode_386,sense organs,Vertiginous syndromes and other disorders of vestibular system,both_sexes,6134
+133,Phe_386.9,PheCode_386.9,sense organs,Dizziness and giddiness (Light-headedness and vertigo),both_sexes,4611
+134,Phe_389,PheCode_389,sense organs,Hearing loss,both_sexes,4256
+135,Phe_394,PheCode_394,circulatory system,Rheumatic disease of the heart valves,both_sexes,4895
+136,Phe_394.2,PheCode_394.2,circulatory system,Mitral valve disease,both_sexes,2985
+137,Phe_394.3,PheCode_394.3,circulatory system,Aortic valve disease,both_sexes,1260
+138,Phe_394.7,PheCode_394.7,circulatory system,Disease of tricuspid valve,both_sexes,1058
+139,Phe_395,PheCode_395,circulatory system,Heart valve disorders,both_sexes,4239
+140,Phe_395.1,PheCode_395.1,circulatory system,Nonrheumatic mitral valve disorders,both_sexes,2892
+141,Phe_395.6,PheCode_395.6,circulatory system,Heart valve replaced,both_sexes,1499
+142,Phe_396,PheCode_396,circulatory system,Abnormal heart sounds,both_sexes,1049
+143,Phe_401.1,PheCode_401.1,circulatory system,Essential hypertension,both_sexes,77723
+144,Phe_401.2,PheCode_401.2,circulatory system,Hypertensive heart and__or renal disease,both_sexes,1719
+145,Phe_401.22,PheCode_401.22,circulatory system,Hypertensive chronic kidney disease,both_sexes,1548
+146,Phe_402,PheCode_402,circulatory system,Elevated blood pressure reading without diagnosis of hypertension,both_sexes,1487
+147,Phe_411.1,PheCode_411.1,circulatory system,Unstable angina (intermediate coronary syndrome),both_sexes,5181
+148,Phe_411.2,PheCode_411.2,circulatory system,Myocardial infarction,both_sexes,11703
+149,Phe_411.3,PheCode_411.3,circulatory system,Angina pectoris,both_sexes,16175
+150,Phe_411.4,PheCode_411.4,circulatory system,Coronary atherosclerosis,both_sexes,20023
+151,Phe_411.8,PheCode_411.8,circulatory system,"Other chronic ischemic heart disease, unspecified",both_sexes,14921
+152,Phe_411.9,PheCode_411.9,circulatory system,Other acute and subacute forms of ischemic heart disease,both_sexes,1169
+153,Phe_414,PheCode_414,circulatory system,Other forms of chronic heart disease,both_sexes,1796
+154,Phe_415,PheCode_415,circulatory system,Pulmonary heart disease,both_sexes,4257
+155,Phe_416,PheCode_416,circulatory system,Cardiomegaly,both_sexes,2573
+156,Phe_418,PheCode_418,circulatory system,Nonspecific chest pain,both_sexes,31429
+157,Phe_418.1,PheCode_418.1,circulatory system,Precordial pain,both_sexes,3582
+158,Phe_420,PheCode_420,circulatory system,Carditis,both_sexes,2020
+159,Phe_420.2,PheCode_420.2,circulatory system,Pericarditis,both_sexes,1273
+160,Phe_425,PheCode_425,circulatory system,Cardiomyopathy,both_sexes,1247
+161,Phe_425.1,PheCode_425.1,circulatory system,Primary__intrinsic cardiomyopathies,both_sexes,1208
+162,Phe_426,PheCode_426,circulatory system,Cardiac conduction disorders,both_sexes,6959
+163,Phe_426.2,PheCode_426.2,circulatory system,Atrioventricular [AV] block,both_sexes,2125
+164,Phe_426.3,PheCode_426.3,circulatory system,Bundle branch block,both_sexes,3353
+165,Phe_426.31,PheCode_426.31,circulatory system,Right bundle branch block,both_sexes,1498
+166,Phe_426.32,PheCode_426.32,circulatory system,Left bundle branch block,both_sexes,1757
+167,Phe_426.9,PheCode_426.9,circulatory system,Cardiac pacemaker__device in situ,both_sexes,2487
+168,Phe_426.91,PheCode_426.91,circulatory system,Cardiac pacemaker in situ,both_sexes,2283
+169,Phe_427,PheCode_427,circulatory system,Cardiac dysrhythmias,both_sexes,24681
+170,Phe_427.1,PheCode_427.1,circulatory system,"Paroxysmal tachycardia, unspecified",both_sexes,3225
+171,Phe_427.11,PheCode_427.11,circulatory system,Paroxysmal supraventricular tachycardia,both_sexes,2359
+172,Phe_427.2,PheCode_427.2,circulatory system,Atrial fibrillation and flutter,both_sexes,14820
+173,Phe_427.3,PheCode_427.3,circulatory system,Other specified cardiac dysrhythmias,both_sexes,3236
+174,Phe_427.4,PheCode_427.4,circulatory system,Cardiac arrest and ventricular fibrillation,both_sexes,1137
+175,Phe_427.7,PheCode_427.7,circulatory system,Tachycardia NOS,both_sexes,2193
+176,Phe_427.9,PheCode_427.9,circulatory system,Palpitations,both_sexes,3832
+177,Phe_428,PheCode_428,circulatory system,Congestive heart failure; nonhypertensive,both_sexes,5415
+178,Phe_428.1,PheCode_428.1,circulatory system,Congestive heart failure (CHF) NOS,both_sexes,2031
+179,Phe_428.2,PheCode_428.2,circulatory system,Heart failure NOS,both_sexes,4269
+180,Phe_430,PheCode_430,circulatory system,Intracranial hemorrhage,both_sexes,1796
+181,Phe_433,PheCode_433,circulatory system,Cerebrovascular disease,both_sexes,8742
+182,Phe_433.1,PheCode_433.1,circulatory system,Occlusion and stenosis of precerebral arteries,both_sexes,1185
+183,Phe_433.2,PheCode_433.2,circulatory system,Occlusion of cerebral arteries,both_sexes,4134
+184,Phe_433.21,PheCode_433.21,circulatory system,"Cerebral artery occlusion, with cerebral infarction",both_sexes,1501
+185,Phe_433.3,PheCode_433.3,circulatory system,Cerebral ischemia,both_sexes,2920
+186,Phe_433.31,PheCode_433.31,circulatory system,Transient cerebral ischemia,both_sexes,2146
+187,Phe_433.8,PheCode_433.8,circulatory system,Late effects of cerebrovascular disease,both_sexes,1263
+188,Phe_440,PheCode_440,circulatory system,Atherosclerosis,both_sexes,1324
+189,Phe_442,PheCode_442,circulatory system,Other aneurysm,both_sexes,1808
+190,Phe_442.1,PheCode_442.1,circulatory system,Aortic aneurysm,both_sexes,1374
+191,Phe_443,PheCode_443,circulatory system,Peripheral vascular disease,both_sexes,3927
+192,Phe_443.1,PheCode_443.1,circulatory system,Raynaud's syndrome,both_sexes,1148
+193,Phe_443.9,PheCode_443.9,circulatory system,"Peripheral vascular disease, unspecified",both_sexes,2566
+194,Phe_447,PheCode_447,circulatory system,Other disorders of arteries and arterioles,both_sexes,1333
+195,Phe_451,PheCode_451,circulatory system,Phlebitis and thrombophlebitis,both_sexes,3900
+196,Phe_451.2,PheCode_451.2,circulatory system,Phlebitis and thrombophlebitis of lower extremities,both_sexes,3587
+197,Phe_454,PheCode_454,circulatory system,Varicose veins,both_sexes,12172
+198,Phe_454.1,PheCode_454.1,circulatory system,Varicose veins of lower extremity,both_sexes,11697
+199,Phe_455,PheCode_455,circulatory system,Hemorrhoids,both_sexes,23896
+200,Phe_458,PheCode_458,circulatory system,Hypotension,both_sexes,5827
+201,Phe_458.1,PheCode_458.1,circulatory system,Orthostatic hypotension,both_sexes,1347
+202,Phe_458.9,PheCode_458.9,circulatory system,Hypotension NOS,both_sexes,3518
+203,Phe_459,PheCode_459,circulatory system,Other disorders of circulatory system,both_sexes,16544
+204,Phe_459.9,PheCode_459.9,circulatory system,Circulatory disease NEC,both_sexes,16366
+205,Phe_465,PheCode_465,respiratory,Acute upper respiratory infections of multiple or unspecified sites,both_sexes,2335
+206,Phe_470,PheCode_470,respiratory,Septal Deviations__Turbinate Hypertrophy,both_sexes,4939
+207,Phe_471,PheCode_471,respiratory,Nasal polyps,both_sexes,3311
+208,Phe_473,PheCode_473,respiratory,Diseases of the larynx and vocal cords,both_sexes,2630
+209,Phe_473.4,PheCode_473.4,respiratory,Voice disturbance,both_sexes,1086
+210,Phe_474,PheCode_474,respiratory,Acute and chronic tonsillitis,both_sexes,2013
+211,Phe_474.2,PheCode_474.2,respiratory,Chronic tonsillitis and adenoiditis,both_sexes,1126
+212,Phe_475,PheCode_475,respiratory,Chronic sinusitis,both_sexes,2602
+213,Phe_476,PheCode_476,respiratory,Allergic rhinitis,both_sexes,1060
+214,Phe_477,PheCode_477,respiratory,Epistaxis or throat hemorrhage,both_sexes,2456
+215,Phe_479,PheCode_479,respiratory,Other upper respiratory disease,both_sexes,4101
+216,Phe_480,PheCode_480,respiratory,Pneumonia,both_sexes,10059
+217,Phe_480.1,PheCode_480.1,respiratory,Bacterial pneumonia,both_sexes,6710
+218,Phe_480.11,PheCode_480.11,respiratory,Pneumococcal pneumonia,both_sexes,5951
+219,Phe_495,PheCode_495,respiratory,Asthma,both_sexes,26332
+220,Phe_496,PheCode_496,respiratory,Chronic airway obstruction,both_sexes,10502
+221,Phe_496.1,PheCode_496.1,respiratory,Emphysema,both_sexes,1727
+222,Phe_496.2,PheCode_496.2,respiratory,Chronic bronchitis,both_sexes,2934
+223,Phe_496.21,PheCode_496.21,respiratory,Obstructive chronic bronchitis,both_sexes,2698
+224,Phe_496.3,PheCode_496.3,respiratory,Bronchiectasis,both_sexes,1882
+225,Phe_506,PheCode_506,respiratory,Empyema and pneumothorax,both_sexes,1174
+226,Phe_507,PheCode_507,respiratory,Pleurisy; pleural effusion,both_sexes,6448
+227,Phe_508,PheCode_508,respiratory,Pulmonary collapse; interstitial and compensatory emphysema,both_sexes,2005
+228,Phe_509.1,PheCode_509.1,respiratory,Respiratory failure,both_sexes,2018
+229,Phe_509.2,PheCode_509.2,respiratory,Respiratory insufficiency,both_sexes,1749
+230,Phe_512,PheCode_512,respiratory,Other symptoms of respiratory system,both_sexes,9128
+231,Phe_512.7,PheCode_512.7,respiratory,Shortness of breath,both_sexes,5884
+232,Phe_512.8,PheCode_512.8,respiratory,Cough,both_sexes,2884
+233,Phe_514,PheCode_514,respiratory,Abnormal findings examination of lungs,both_sexes,2500
+234,Phe_516,PheCode_516,respiratory,Abnormal sputum,both_sexes,2167
+235,Phe_516.1,PheCode_516.1,respiratory,Hemoptysis,both_sexes,2073
+236,Phe_519,PheCode_519,respiratory,"Other diseases of respiratory system, not elsewhere classified",both_sexes,9436
+237,Phe_519.8,PheCode_519.8,respiratory,"Other diseases of respiratory system, NEC",both_sexes,8844
+238,Phe_520,PheCode_520,digestive,Disorders of tooth development,both_sexes,2449
+239,Phe_520.2,PheCode_520.2,digestive,Disturbances in tooth eruption,both_sexes,2364
+240,Phe_521,PheCode_521,digestive,Diseases of hard tissues of teeth,both_sexes,3091
+241,Phe_521.1,PheCode_521.1,digestive,Dental caries,both_sexes,3051
+242,Phe_522,PheCode_522,digestive,Diseases of pulp and periapical tissues,both_sexes,1795
+243,Phe_522.5,PheCode_522.5,digestive,Periapical abscess,both_sexes,1177
+244,Phe_523,PheCode_523,digestive,Gingival and periodontal diseases,both_sexes,1742
+245,Phe_523.3,PheCode_523.3,digestive,Periodontitis (acute or chronic),both_sexes,1222
+246,Phe_525,PheCode_525,digestive,Other diseases of the teeth and supporting structures,both_sexes,2689
+247,Phe_528,PheCode_528,digestive,"Diseases of the oral soft tissues, excluding lesions specific for gingiva and tongue",both_sexes,3939
+248,Phe_529,PheCode_529,digestive,Diseases and other conditions of the tongue,both_sexes,1236
+249,Phe_530,PheCode_530,digestive,Diseases of esophagus,both_sexes,35852
+250,Phe_530.1,PheCode_530.1,digestive,"Esophagitis, GERD and related diseases",both_sexes,32108
+251,Phe_530.11,PheCode_530.11,digestive,GERD,both_sexes,14223
+252,Phe_530.12,PheCode_530.12,digestive,Ulcer of esophagus,both_sexes,5243
+253,Phe_530.14,PheCode_530.14,digestive,Reflux esophagitis,both_sexes,10551
+254,Phe_530.2,PheCode_530.2,digestive,Esophageal bleeding (varices__hemorrhage),both_sexes,1672
+255,Phe_530.3,PheCode_530.3,digestive,Stricture and stenosis of esophagus,both_sexes,1874
+256,Phe_530.9,PheCode_530.9,digestive,Heartburn,both_sexes,2100
+257,Phe_531,PheCode_531,digestive,Peptic ulcer (excl. esophageal),both_sexes,7436
+258,Phe_531.2,PheCode_531.2,digestive,Gastric ulcer,both_sexes,4109
+259,Phe_531.3,PheCode_531.3,digestive,Duodenal ulcer,both_sexes,3002
+260,Phe_532,PheCode_532,digestive,Dysphagia,both_sexes,6482
+261,Phe_535,PheCode_535,digestive,Gastritis and duodenitis,both_sexes,28941
+262,Phe_535.1,PheCode_535.1,digestive,Acute gastritis,both_sexes,1184
+263,Phe_535.6,PheCode_535.6,digestive,Duodenitis,both_sexes,7655
+264,Phe_535.8,PheCode_535.8,digestive,Other specified gastritis,both_sexes,8147
+265,Phe_537,PheCode_537,digestive,Other disorders of stomach and duodenum,both_sexes,3404
+266,Phe_540,PheCode_540,digestive,Appendiceal conditions,both_sexes,3409
+267,Phe_540.1,PheCode_540.1,digestive,Appendicitis,both_sexes,3217
+268,Phe_540.11,PheCode_540.11,digestive,Acute appendicitis,both_sexes,2608
+269,Phe_550,PheCode_550,digestive,Abdominal hernia,both_sexes,47344
+270,Phe_550.1,PheCode_550.1,digestive,Inguinal hernia,both_sexes,15995
+271,Phe_550.2,PheCode_550.2,digestive,Diaphragmatic hernia,both_sexes,27126
+272,Phe_550.4,PheCode_550.4,digestive,Umbilical hernia,both_sexes,3727
+273,Phe_550.5,PheCode_550.5,digestive,Ventral hernia,both_sexes,3448
+274,Phe_555,PheCode_555,digestive,Inflammatory bowel disease and other gastroenteritis and colitis,both_sexes,4528
+275,Phe_555.1,PheCode_555.1,digestive,Regional enteritis,both_sexes,1743
+276,Phe_555.2,PheCode_555.2,digestive,Ulcerative colitis,both_sexes,3195
+277,Phe_556,PheCode_556,digestive,Ulceration of the lower GI tract,both_sexes,1063
+278,Phe_557,PheCode_557,digestive,Intestinal malabsorption (non-celiac),both_sexes,2103
+279,Phe_557.1,PheCode_557.1,digestive,Celiac disease,both_sexes,1855
+280,Phe_558,PheCode_558,digestive,Noninfectious gastroenteritis,both_sexes,15747
+281,Phe_559,PheCode_559,digestive,Ileostomy status,both_sexes,1660
+282,Phe_560.4,PheCode_560.4,digestive,Other intestinal obstruction,both_sexes,3346
+283,Phe_561,PheCode_561,digestive,Symptoms involving digestive system,both_sexes,15977
+284,Phe_561.2,PheCode_561.2,digestive,Flatulence,both_sexes,1689
+285,Phe_562,PheCode_562,digestive,Diverticulosis and diverticulitis,both_sexes,27311
+286,Phe_562.1,PheCode_562.1,digestive,Diverticulosis,both_sexes,27268
+287,Phe_563,PheCode_563,digestive,Constipation,both_sexes,10442
+288,Phe_564,PheCode_564,digestive,Functional digestive disorders,both_sexes,22138
+289,Phe_564.1,PheCode_564.1,digestive,Irritable Bowel Syndrome,both_sexes,5548
+290,Phe_564.8,PheCode_564.8,digestive,Abnormal findings on exam of gastrointestinal tract__ abdominal area,both_sexes,1650
+291,Phe_564.9,PheCode_564.9,digestive,Personal history of diseases of digestive system,both_sexes,15392
+292,Phe_565,PheCode_565,digestive,Anal and rectal conditions,both_sexes,14997
+293,Phe_565.1,PheCode_565.1,digestive,Anal and rectal polyp,both_sexes,7408
+294,Phe_568,PheCode_568,digestive,Other disorders of peritoneum,both_sexes,3308
+295,Phe_568.1,PheCode_568.1,digestive,Peritoneal adhesions (postoperative) (postinfection),both_sexes,3108
+296,Phe_569,PheCode_569,digestive,Other disorders of intestine,both_sexes,4200
+297,Phe_571,PheCode_571,digestive,Chronic liver disease and cirrhosis,both_sexes,2895
+298,Phe_571.5,PheCode_571.5,digestive,Other chronic nonalcoholic liver disease,both_sexes,1664
+299,Phe_572,PheCode_572,digestive,Ascites (non malignant),both_sexes,1547
+300,Phe_573,PheCode_573,digestive,Other disorders of liver,both_sexes,5847
+301,Phe_573.7,PheCode_573.7,digestive,Abnormal results of function study of liver,both_sexes,3479
+302,Phe_574,PheCode_574,digestive,Cholelithiasis and cholecystitis,both_sexes,16225
+303,Phe_574.1,PheCode_574.1,digestive,Cholelithiasis,both_sexes,13777
+304,Phe_574.11,PheCode_574.11,digestive,Cholelithiasis with acute cholecystitis,both_sexes,1513
+305,Phe_574.12,PheCode_574.12,digestive,Cholelithiasis with other cholecystitis,both_sexes,5472
+306,Phe_574.2,PheCode_574.2,digestive,Calculus of bile duct,both_sexes,2634
+307,Phe_574.3,PheCode_574.3,digestive,Cholecystitis without cholelithiasis,both_sexes,2761
+308,Phe_575,PheCode_575,digestive,Other biliary tract disease,both_sexes,3892
+309,Phe_575.7,PheCode_575.7,digestive,Other disorders of gallbladder,both_sexes,1412
+310,Phe_575.8,PheCode_575.8,digestive,Other disorders of biliary tract,both_sexes,1040
+311,Phe_577,PheCode_577,digestive,Diseases of pancreas,both_sexes,2690
+312,Phe_577.1,PheCode_577.1,digestive,Acute pancreatitis,both_sexes,1986
+313,Phe_578.1,PheCode_578.1,digestive,Hematemesis,both_sexes,1961
+314,Phe_578.2,PheCode_578.2,digestive,Blood in stool,both_sexes,2639
+315,Phe_578.9,PheCode_578.9,digestive,Hemorrhage of gastrointestinal tract,both_sexes,5229
+316,Phe_579,PheCode_579,digestive,Other symptoms involving abdomen and pelvis,both_sexes,3195
+317,Phe_579.8,PheCode_579.8,digestive,Nonspecific abnormal findings in stool contents,both_sexes,1659
+318,Phe_580,PheCode_580,genitourinary,Nephritis; nephrosis; renal sclerosis,both_sexes,1522
+319,Phe_580.1,PheCode_580.1,genitourinary,Glomerulonephritis,both_sexes,1033
+320,Phe_585,PheCode_585,genitourinary,Renal failure,both_sexes,6985
+321,Phe_585.1,PheCode_585.1,genitourinary,Acute renal failure,both_sexes,4521
+322,Phe_585.2,PheCode_585.2,genitourinary,Renal failure NOS,both_sexes,1412
+323,Phe_585.3,PheCode_585.3,genitourinary,Chronic renal failure [CKD],both_sexes,2629
+324,Phe_586,PheCode_586,genitourinary,Other disorders of the kidney and ureters,both_sexes,3362
+325,Phe_586.2,PheCode_586.2,genitourinary,"Cyst of kidney, acquired",both_sexes,1260
+326,Phe_590,PheCode_590,genitourinary,Pyelonephritis,both_sexes,1324
+327,Phe_591,PheCode_591,genitourinary,Urinary tract infection,both_sexes,12491
+328,Phe_592,PheCode_592,genitourinary,Cystitis and urethritis,both_sexes,3088
+329,Phe_592.1,PheCode_592.1,genitourinary,Cystitis,both_sexes,2948
+330,Phe_593,PheCode_593,genitourinary,Hematuria,both_sexes,16409
+331,Phe_594,PheCode_594,genitourinary,Urinary calculus,both_sexes,6643
+332,Phe_594.1,PheCode_594.1,genitourinary,Calculus of kidney,both_sexes,3191
+333,Phe_594.3,PheCode_594.3,genitourinary,Calculus of ureter,both_sexes,2417
+334,Phe_594.8,PheCode_594.8,genitourinary,Renal colic,both_sexes,2055
+335,Phe_595,PheCode_595,genitourinary,Hydronephrosis,both_sexes,1951
+336,Phe_596,PheCode_596,genitourinary,Other disorders of bladder,both_sexes,9933
+337,Phe_596.1,PheCode_596.1,genitourinary,Bladder neck obstruction,both_sexes,1980
+338,Phe_596.5,PheCode_596.5,genitourinary,Functional disorders of bladder,both_sexes,1664
+339,Phe_597,PheCode_597,genitourinary,Other disorders of urethra and urinary tract,both_sexes,4069
+340,Phe_597.1,PheCode_597.1,genitourinary,Urethral stricture (not specified as infectious),both_sexes,3331
+341,Phe_598,PheCode_598,genitourinary,Abnormal findings on examination of urine,both_sexes,3547
+342,Phe_599,PheCode_599,genitourinary,Other symptoms__disorders or the urinary system,both_sexes,24031
+343,Phe_599.2,PheCode_599.2,genitourinary,Retention of urine,both_sexes,6755
+344,Phe_599.3,PheCode_599.3,genitourinary,Dysuria,both_sexes,1199
+345,Phe_599.4,PheCode_599.4,genitourinary,Urinary incontinence,both_sexes,8856
+346,Phe_599.5,PheCode_599.5,genitourinary,Frequency of urination and polyuria,both_sexes,4037
+347,Phe_599.9,PheCode_599.9,genitourinary,Other abnormality of urination,both_sexes,1926
+348,Phe_611.3,PheCode_611.3,genitourinary,Lump or mass in breast,both_sexes,1525
+349,Phe_613,PheCode_613,genitourinary,Other nonmalignant breast conditions,both_sexes,1983
+350,Phe_681,PheCode_681,dermatologic,Superficial cellulitis and abscess,both_sexes,7451
+351,Phe_681.3,PheCode_681.3,dermatologic,Cellulitis and abscess of arm__hand,both_sexes,5539
+352,Phe_686,PheCode_686,dermatologic,Other local infections of skin and subcutaneous tissue,both_sexes,4520
+353,Phe_686.1,PheCode_686.1,dermatologic,Carbuncle and furuncle,both_sexes,2302
+354,Phe_687,PheCode_687,dermatologic,Symptoms affecting skin,both_sexes,5554
+355,Phe_687.1,PheCode_687.1,dermatologic,Rash and other nonspecific skin eruption,both_sexes,2157
+356,Phe_687.4,PheCode_687.4,dermatologic,Disturbance of skin sensation,both_sexes,2900
+357,Phe_689,PheCode_689,dermatologic,Disorder of skin and subcutaneous tissue NOS,both_sexes,5782
+358,Phe_695,PheCode_695,dermatologic,Erythematous conditions,both_sexes,2420
+359,Phe_696,PheCode_696,dermatologic,Psoriasis and related disorders,both_sexes,2293
+360,Phe_696.4,PheCode_696.4,dermatologic,Psoriasis,both_sexes,2237
+361,Phe_696.41,PheCode_696.41,dermatologic,Psoriasis vulgaris,both_sexes,1684
+362,Phe_701,PheCode_701,dermatologic,Other hypertrophic and atrophic conditions of skin,both_sexes,4804
+363,Phe_701.2,PheCode_701.2,dermatologic,Scar conditions and fibrosis of skin,both_sexes,2356
+364,Phe_702,PheCode_702,dermatologic,Degenerative skin conditions and other dermatoses,both_sexes,5522
+365,Phe_702.1,PheCode_702.1,dermatologic,Actinic keratosis,both_sexes,2594
+366,Phe_702.2,PheCode_702.2,dermatologic,Seborrheic keratosis,both_sexes,3092
+367,Phe_703,PheCode_703,dermatologic,"Diseases of nail, NOS",both_sexes,1287
+368,Phe_704,PheCode_704,dermatologic,Diseases of hair and hair follicles,both_sexes,5344
+369,Phe_706,PheCode_706,dermatologic,Diseases of sebaceous glands,both_sexes,8948
+370,Phe_706.2,PheCode_706.2,dermatologic,Sebaceous cyst,both_sexes,8876
+371,Phe_707,PheCode_707,dermatologic,Chronic ulcer of skin,both_sexes,1988
+372,Phe_709,PheCode_709,dermatologic,Diffuse diseases of connective tissue,both_sexes,3463
+373,Phe_709.7,PheCode_709.7,dermatologic,Unspecified diffuse connective tissue disease,both_sexes,2720
+374,Phe_714,PheCode_714,musculoskeletal,Rheumatoid arthritis and other inflammatory polyarthropathies,both_sexes,4879
+375,Phe_714.1,PheCode_714.1,musculoskeletal,Rheumatoid arthritis,both_sexes,4412
+376,Phe_715,PheCode_715,musculoskeletal,Other inflammatory spondylopathies,both_sexes,1671
+377,Phe_716,PheCode_716,musculoskeletal,Other arthropathies,both_sexes,38715
+378,Phe_716.2,PheCode_716.2,musculoskeletal,Unspecified monoarthritis,both_sexes,15790
+379,Phe_716.9,PheCode_716.9,musculoskeletal,Arthropathy NOS,both_sexes,37043
+380,Phe_717,PheCode_717,musculoskeletal,Polymyalgia Rheumatica,both_sexes,1152
+381,Phe_720,PheCode_720,musculoskeletal,Spinal stenosis,both_sexes,3733
+382,Phe_721,PheCode_721,musculoskeletal,Spondylosis and allied disorders,both_sexes,7930
+383,Phe_721.1,PheCode_721.1,musculoskeletal,Spondylosis without myelopathy,both_sexes,5077
+384,Phe_722,PheCode_722,musculoskeletal,Intervertebral disc disorders,both_sexes,9241
+385,Phe_722.6,PheCode_722.6,musculoskeletal,Degeneration of intervertebral disc,both_sexes,2846
+386,Phe_722.9,PheCode_722.9,musculoskeletal,Other and unspecified disc disorder,both_sexes,4434
+387,Phe_724,PheCode_724,musculoskeletal,Other and unspecified disorders of back,both_sexes,2077
+388,Phe_726,PheCode_726,musculoskeletal,Peripheral enthesopathies and allied syndromes,both_sexes,14983
+389,Phe_726.1,PheCode_726.1,musculoskeletal,Enthesopathy,both_sexes,9668
+390,Phe_727,PheCode_727,musculoskeletal,"Other disorders of synovium, tendon, and bursa",both_sexes,7629
+391,Phe_727.1,PheCode_727.1,musculoskeletal,Synovitis and tenosynovitis,both_sexes,2754
+392,Phe_727.4,PheCode_727.4,musculoskeletal,"Ganglion and cyst of synovium, tendon, and bursa",both_sexes,3185
+393,Phe_728,PheCode_728,musculoskeletal,"Disorders of muscle, ligament, and fascia",both_sexes,4488
+394,Phe_728.7,PheCode_728.7,musculoskeletal,Fasciitis,both_sexes,3843
+395,Phe_728.71,PheCode_728.71,musculoskeletal,Contracture of palmar fascia [Dupuytren's disease],both_sexes,3503
+396,Phe_729,PheCode_729,musculoskeletal,Other disorders of soft tissues,both_sexes,6170
+397,Phe_729.1,PheCode_729.1,musculoskeletal,"Rheumatism, unspecified and fibrositis",both_sexes,1010
+398,Phe_733,PheCode_733,musculoskeletal,Other disorders of bone and cartilage,both_sexes,3773
+399,Phe_733.8,PheCode_733.8,musculoskeletal,Malunion and nonunion of fracture,both_sexes,1268
+400,Phe_735,PheCode_735,musculoskeletal,Acquired foot deformities,both_sexes,9865
+401,Phe_735.2,PheCode_735.2,musculoskeletal,Acquired toe deformities,both_sexes,5144
+402,Phe_735.21,PheCode_735.21,musculoskeletal,Hammer toe (acquired),both_sexes,1939
+403,Phe_735.23,PheCode_735.23,musculoskeletal,Hallux rigidus,both_sexes,1561
+404,Phe_735.3,PheCode_735.3,musculoskeletal,Hallux valgus (Bunion),both_sexes,6699
+405,Phe_736,PheCode_736,musculoskeletal,Other acquired deformities of limbs,both_sexes,1649
+406,Phe_737,PheCode_737,musculoskeletal,Curvature of spine,both_sexes,1134
+407,Phe_737.3,PheCode_737.3,musculoskeletal,Kyphoscoliosis and scoliosis,both_sexes,1063
+408,Phe_738,PheCode_738,musculoskeletal,Other acquired musculoskeletal deformity,both_sexes,1921
+409,Phe_738.4,PheCode_738.4,musculoskeletal,Acquired spondylolisthesis,both_sexes,1521
+410,Phe_740,PheCode_740,musculoskeletal,Osteoarthrosis,both_sexes,28439
+411,Phe_740.1,PheCode_740.1,musculoskeletal,Osteoarthritis; localized,both_sexes,17691
+412,Phe_740.11,PheCode_740.11,musculoskeletal,"Osteoarthrosis, localized, primary",both_sexes,9069
+413,Phe_740.9,PheCode_740.9,musculoskeletal,Osteoarthrosis NOS,both_sexes,12436
+414,Phe_741,PheCode_741,musculoskeletal,Symptoms and disorders of the joints,both_sexes,3634
+415,Phe_741.4,PheCode_741.4,musculoskeletal,Joint effusions,both_sexes,1425
+416,Phe_742,PheCode_742,musculoskeletal,"Derangement of joint, non-traumatic",both_sexes,2913
+417,Phe_742.9,PheCode_742.9,musculoskeletal,Other derangement of joint,both_sexes,2000
+418,Phe_743,PheCode_743,musculoskeletal,"Osteoporosis, osteopenia and pathological fracture",both_sexes,7682
+419,Phe_743.1,PheCode_743.1,musculoskeletal,Osteoporosis,both_sexes,6484
+420,Phe_743.11,PheCode_743.11,musculoskeletal,Osteoporosis NOS,both_sexes,5622
+421,Phe_745,PheCode_745,musculoskeletal,Pain in joint,both_sexes,8037
+422,Phe_747,PheCode_747,congenital anomalies,Cardiac and circulatory congenital anomalies,both_sexes,2796
+423,Phe_747.1,PheCode_747.1,congenital anomalies,Cardiac congenital anomalies,both_sexes,2618
+424,Phe_747.13,PheCode_747.13,congenital anomalies,Congenital anomalies of great vessels,both_sexes,1799
+425,Phe_751,PheCode_751,congenital anomalies,Genitourinary congenital anomalies,both_sexes,1596
+426,Phe_939,PheCode_939,dermatologic,Atopic__contact dermatitis due to other or unspecified,both_sexes,2110
